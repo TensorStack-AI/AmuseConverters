@@ -45,7 +45,7 @@
                     "enable_gemm_fast_gelu": false,
                     "group_norm_channels_last": true,
                     "enable_nhwc_conv": true,
-                    "enable_group_norm": true,
+                    "enable_group_norm": false,
                     "enable_skip_group_norm": false,
                     "enable_bias_splitgelu": true,
                     "enable_packed_qkv": true,
